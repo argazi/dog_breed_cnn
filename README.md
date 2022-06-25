@@ -11,3 +11,5 @@ Project Steps:
 All of the code is in the file: dog_breed_classifier.ipynb
 
 Download the dataset used in this project: https://f2h.io/rxdn7h1o4gbb
+
+Youtube Video : https://youtu.be/YvwMsqQUlYo
